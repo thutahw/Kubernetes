@@ -1,0 +1,11 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  namespace: <<student_id>>-ninjavan
+  name: memes-ingress
+spec:
+  defaultBackend:
+    service:
+      name: memes-service
+      port:
+        number: 80

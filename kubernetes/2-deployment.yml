@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: <<student_id>>-ninjavan
+  name: memes-deployment
+  labels:
+    app: memes
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: memes
+  template:
+    metadata:
+      labels:
+        app: memes
+    spec:
+      containers:
+      - name: memes
+        image: asia.gcr.io/ninja-van-experiments/nv-kube-talk:latest
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 5000

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ninja-van-experiments",
+  "private_key_id": "8486831a3ea0daf95d78dba14b952b8406797655",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDj2+GIDacKt/MJ\ngwaz2vT5rBfJdDIikTtfBzOhIjTvOm3T48IcGPi6NXg8wEjfKItDw81vC0QsCGRb\nf51fycKjaxgz2OhOYPkRFmCrX2crLPG4yE2lcVwY71IQWDOr3nkn3CObYjWd5is1\nGHMMPo5Vzgnszs3gHMCndcVIzLleTInpKQqAKeX40RYejdnsn9XGcTVKEZQOyRS+\nnsPYylyaQOcJN20p5HTtdkjP2EAt6ZJ3fN5B0up7QR6bw7ue3yna4uf75R5gewax\n6+faWZIGBdZuP4eu0m4S7O8dntb0379amUt1SkS5kyBU7C5fWVVVMxyuQ2w11k0r\nIxDxj7ONAgMBAAECggEALhH3YfWWtF9Ye7AbExLejLurrI76kwwnw7E2UmpS5xq6\neYjXpqwy4B1vA+OB6GLvc4Jbn0vZGwkQV4KwLF2kJbwBzvvYjn5jZX3Pil7WAoAK\nGKkhL+YBb8Y1orneqq2m8/T52xEqk5Ql4MyieFOOnlE0JwXyUNGnb0Rr4OoJwcOY\nuMMKkB3NRShq+AbeJ8YoehtZ4yFSTV5m4SkmAH15PolxuzTVolIYHBUUYmgHXGNy\neGPYsyHxh/MswAPBzlnCBg3EjA8WzrIidrbsbDPGCsBNslne+/ncfslk+EyxA52c\nE3jbLH32wDsyE7rXwBnEmMyzoOQNnmXiZnJsizRZsQKBgQD5R6Usl8IncPC0WuLn\nToB3x0ofnjpcqvlv2LWcf+NVfhgFVjMPgp0BQOTL577SduIh67XifNGF/dpOZHaO\nZyeK+BdjNWIcWfB6nkHPFbWBd4Z9ORZHwdYny2zYgH3ZobYIrd7uhWgsX1RY7bFC\nA3NH7A6Icx9KqLp3E5ZvIkcF3QKBgQDqAGdDO0jNGnhvUXGEOiqMZH9NnJfr8Cej\n8MhIcap4eQVVRrgsE4Dhgf5ocUt03WWT0TOBTrVY4XuvMyv4N4cVGgspFnG4KnKq\nPNsrvhBGMnsb2uc34c1ml+kxJoIC/AJyjo1OiEdiJ5mKo7d8t3HK4dT1kkO0O1pK\nfwdicY1BcQKBgQDA20QX5uUn/IHNFw+7IonToVRgd9rxPLm0ZXXEOVEZIG/XGSRx\n2Hw9rwYUFxwT2jQDSEg0jJrRTl9qDOGINJhsNJprf66C/rZFN1D0tPfyzRU4pkTt\niTJ1ITX5nhc/m5OozVPPN1ksEyi/kE12JBM5TpDD0kUgTr/MRlQ5cMx/5QKBgDU3\nEkS/3raGJo1qQB6J+9Mhp7HGwuXtH5aw01tmPhZXr1bNVmTvqoeeQHUQDtDs6ITN\nNqFZfPRRkwcs4/r25cluussFR6dSP/FnFZDFEH5mTIjxJ1QWDdgfA/EhiL+VABl9\nQbVyWImB5/EXekrqjP5OjVerg6ohNU9rxAonOLCBAoGBAPClLffFg1svLBAsBcjo\nR0FN4Xs4roqPPPkQeEMLYIBQgVuZT1ixvUcgJ3H3Pn2PMEpswyMLf12d1zY4UOj5\nJAJ7VCBZv4+XDSNthe6uAyqZDlP9VH2xr9YJ4ag7lP370DrnbOkzR+DponeIwnod\n1rTQ3GBjIt4kdIOxmXFuFbxj\n-----END PRIVATE KEY-----\n",
+  "client_email": "kube-talk-nus@ninja-van-experiments.iam.gserviceaccount.com",
+  "client_id": "103520631060125356942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kube-talk-nus%40ninja-van-experiments.iam.gserviceaccount.com"
+}
